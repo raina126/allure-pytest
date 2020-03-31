@@ -19,6 +19,8 @@ class TestContact:
 
         assert 1
 
+测试错误的
+
 
 
 
