@@ -19,7 +19,8 @@ class TestContact:
 
         assert 1
 
-测试错误的
+测试错误的 
+def __init__(self)
 
 
 
