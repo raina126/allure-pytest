@@ -7,7 +7,7 @@ class TestContact:
     @allure.step(title='登录的测试脚本')
     def test_login(self):
 
-        assert 1
+        assert 0
 
     @allure.step(title='用户名的测试脚本')
     def test_username(self):
@@ -19,8 +19,6 @@ class TestContact:
 
         assert 1
 
-测试错误的 
-def __init__(self)
 
 
 
